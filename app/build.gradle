@@ -136,4 +136,6 @@ dependencies {
     androidTestImplementation "com.google.dagger:hilt-android-testing:2.60.1"
     kspAndroidTest "com.google.dagger:hilt-compiler:2.60.1"
     kspAndroidTest "org.jetbrains.kotlin:kotlin-metadata-jvm:2.3.10"
+
+    implementation "androidx.lifecycle:lifecycle-runtime-compose:$lifecycle_version"
 }
