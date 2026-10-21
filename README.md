@@ -28,7 +28,7 @@ Durante o desenvolvimento deste codelab, os seguintes conceitos foram consolidad
 - **`LaunchedEffect`:** Disparo de chamadas assíncronas atreladas à entrada de um composable na árvore de UI.
 - **`rememberUpdatedState`:** Captura segura de valores ou lambdas atualizados dentro de efeitos colaterais de longa duração, evitando a reexecução desnecessária do efeito.
 - **`DisposableEffect`:** Limpeza adequada de recursos e retornos de chamada quando um composable sai da tela.
-- 
+
 ## Evidências do Projeto (Demonstração Prática)
 
 ### 1. Interface da Aplicação
